@@ -49,6 +49,8 @@ Used Python to clean, analyze, and visualize datasets for business and analytics
 - Charts and reporting
 
 ### 4. Business Intelligence & Tableau Project
+**Repository:** [Business Intelligence & Tableau Project](https://github.com/ajmalsherzai/business-intelligence-tableau-project)
+
 Created business intelligence reports and dashboards using Tableau, Excel, and data visualization methods.
 
 **Skills Used:**
