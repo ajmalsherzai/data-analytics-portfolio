@@ -23,6 +23,8 @@ Designed a relational SQL database for a small business sales and inventory syst
 - Business reporting
 
 ### 2. R Statistical Analysis
+**Repository:** [R Statistical Analysis](https://github.com/ajmalsherzai/r-statistical-analysis)
+
 Used R and R Markdown to complete statistical analysis projects involving regression, ANOVA, hypothesis testing, and data visualization.
 
 **Skills Used:**
