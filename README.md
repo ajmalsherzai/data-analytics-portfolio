@@ -62,6 +62,8 @@ Created business intelligence reports and dashboards using Tableau, Excel, and d
 - KPI analysis
 
 ### 5. McLaughlin Studios Client Project
+**Repository:** [McLaughlin Studios Client Project](https://github.com/ajmalsherzai/mclaughlin-studios-client-project)
+
 Completed a client-based MIS project for McLaughlin Studios involving website planning, database documentation, project management deliverables, and business analysis.
 
 **Skills Used:**
