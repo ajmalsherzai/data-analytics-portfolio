@@ -36,6 +36,8 @@ Used R and R Markdown to complete statistical analysis projects involving regres
 - Statistical interpretation
 
 ### 3. Python Data Analytics
+**Repository:** [Python Data Analytics](https://github.com/ajmalsherzai/python-data-analytics)
+
 Used Python to clean, analyze, and visualize datasets for business and analytics reporting.
 
 **Skills Used:**
